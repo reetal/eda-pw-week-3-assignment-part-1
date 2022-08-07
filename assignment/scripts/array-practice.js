@@ -117,5 +117,5 @@ console.log(text);
 //     Then log the new array.
 //     It should look something like:
 //     ['pizza', 'pasta', 'fish', 'cat', 'bird', 'dog']
-let combinedArray = foodArray.concat(animalArray);
-console.log(combinedArray);
+let newArray = foodArray.concat(animalArray);
+console.log(newArray);
